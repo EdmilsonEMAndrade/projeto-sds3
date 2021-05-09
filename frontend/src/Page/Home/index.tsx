@@ -7,7 +7,7 @@ function Home() {
         <>
             <NavBar />
             <div className="container">
-                <div className="jumbotron">
+                <div className="d-flex flex-column justify-content-center">
                     <h1 className="display-4">DSVendas</h1>
                     <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
                     <hr />
