@@ -1,5 +1,5 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)]() 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/LICENSE) 
 
 # Sobre o projeto
 
