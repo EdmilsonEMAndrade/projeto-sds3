@@ -1,1 +1,4 @@
-export type n = { nn : number};
+export type Seller = {
+    id: number;
+    name: number;
+};
