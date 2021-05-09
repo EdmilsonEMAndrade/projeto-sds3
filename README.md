@@ -5,7 +5,7 @@
 
 https://semana-spring.netlify.app/
 
-DS Vebdas é uma aplicação full stack web e mobile construída durante a 3ª edição da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Vendas é uma aplicação full stack web e mobile construída durante a 3ª edição da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 ## Layout mobile
 ![HomeMobile 1](https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/homeMobile.jpeg) ![HomeMobile 2](https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/dashboardMobile.jpeg)
