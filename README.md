@@ -40,8 +40,6 @@ DS Vendas é uma aplicação full stack web e mobile construída durante a **Sem
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
 - Bootstrap
 ## Implantação em produção
 - Back end: Heroku
