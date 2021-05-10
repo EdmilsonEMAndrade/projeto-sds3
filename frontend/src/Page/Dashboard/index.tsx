@@ -17,7 +17,7 @@ function Dashboard() {
             <BarChart />
           </div>
           <div className="col-sm-6">
-            <h5 className="text-center">Taxa de Sucesso</h5>
+            <h5 className="text-center">% de Vendas</h5>
             <DonutChart/>
           </div>
         </div>
