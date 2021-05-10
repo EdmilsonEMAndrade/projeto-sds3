@@ -8,15 +8,25 @@ https://semana-spring.netlify.app/
 DS Vendas é uma aplicação full stack web e mobile construída durante a **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 ## Layout mobile
-<div style="display:flex; justify-content: space-evenly; align-items: flex-start;">
+### Home
+
 <img src="https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/homeMobile.jpeg" alt="Home Mobile" width="200"/>
+
+### Dashboard
+
 <img src="https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/dashboardMobile.jpeg" alt="Dashboard Mobile" width="200"/>
-</div>
+
   
 ## Layout web
-![HomeWeb 1](https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/homeWeb.PNG)
 
-![Web 2](https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/dashboardWeb.PNG)
+### Home
+
+<img src="https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/homeWeb.PNG" alt="Home Web" width="300"/>
+
+### Dashboard
+
+<img src="https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/dashboardWeb.PNG" alt="Dashboard Web" width="300"/>
+
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/EdmilsonEMAndrade/projeto-sds3/blob/master/assets/Diagrama%20em%20branco.jpeg)
